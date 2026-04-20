@@ -11,7 +11,7 @@
 
 ### 1. Clone project
 git clone <https://github.com/TrungHieu163/Socialite-Demo.git> 
-cd social-login  
+<br>cd social-login  
 
 ### 2. Cài đặt thư viện
 composer install  
